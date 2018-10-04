@@ -7,3 +7,7 @@ mod tests {
 }
 
 mod round_by_x_steps;
+
+mod integers_recreation_two;
+
+mod find_number_of_instance;
